@@ -24,6 +24,8 @@ And it can also be combined with firebase-messaging(FCM) to get cloud messaging 
 #### The app user must explicitly grant this permission to the app through a permission management screen.
 #### Use permissions if needed, based on your usage.
 
+#### If need use (permission_handler) plugin.
+
 ![Notify](https://user-images.githubusercontent.com/69294119/94232286-4d0f2d80-ff23-11ea-8e84-4b3a7f8a4c8d.jpg)
 
  

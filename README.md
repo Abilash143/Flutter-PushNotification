@@ -2,8 +2,9 @@
 
 ### [Apk File](https://drive.google.com/file/d/1MT03_4ItVNY504vridC8kPmYPmIEJSDO/view?usp=sharing)
 
-## Description
+![20200925_112854](https://user-images.githubusercontent.com/69294119/94232280-4a143d00-ff23-11ea-9663-318c39ff8732.gif)
 
+## Description
 
 Some of the usages of this type of Notification are:
 
@@ -19,5 +20,9 @@ Some of the usages of this type of Notification are:
 
 And it can also be combined with firebase-messaging(FCM) to get cloud messaging functionality and so on...
 
-NOTE: For Android devices which have API level greater than 23
+#### NOTE: For Android devices which have API level greater than 23 (Floating Notifications) & (Allow sound) will be in off condition.
+#### Use permissions if needed, based on your usage.
+
+![Notify](https://user-images.githubusercontent.com/69294119/94232286-4d0f2d80-ff23-11ea-8e84-4b3a7f8a4c8d.jpg)
+
  

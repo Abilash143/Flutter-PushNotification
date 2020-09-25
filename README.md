@@ -4,6 +4,7 @@
 
 ## Description
 
+
 Some of the usages of this type of Notification are:
 
 > Display basic notifications.
@@ -17,4 +18,6 @@ Some of the usages of this type of Notification are:
 > Schedule a notification to be shown weekly on a specified day and time.
 
 And it can also be combined with firebase-messaging(FCM) to get cloud messaging functionality and so on...
+
+NOTE: For Android devices which have API level greater than 23
  

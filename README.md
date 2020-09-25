@@ -20,7 +20,8 @@ Some of the usages of this type of Notification are:
 
 And it can also be combined with firebase-messaging(FCM) to get cloud messaging functionality and so on...
 
-#### NOTE: For Android devices which have API level greater than 23 (Floating Notifications) & (Allow sound) will be in off condition.
+#### NOTE: For Android devices which have API level greater than 23 (Floating Notifications) & (Allow sound) will be in off condition, its Android setup.
+#### The app user must explicitly grant this permission to the app through a permission management screen.
 #### Use permissions if needed, based on your usage.
 
 ![Notify](https://user-images.githubusercontent.com/69294119/94232286-4d0f2d80-ff23-11ea-8e84-4b3a7f8a4c8d.jpg)

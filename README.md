@@ -2,6 +2,14 @@
 
 ### [Apk File](https://drive.google.com/file/d/1MT03_4ItVNY504vridC8kPmYPmIEJSDO/view?usp=sharing)
 
+
+#### Add this line of code in your App Manifest.
+
+```
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
+
 ![20200925_112854](https://user-images.githubusercontent.com/69294119/94232280-4a143d00-ff23-11ea-9663-318c39ff8732.gif)
 
 ## Description
